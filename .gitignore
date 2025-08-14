@@ -22,3 +22,18 @@
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
 replay_pid*
+
+# TS added
+mooc-ohjelmoinnin-perusteet/*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa01-Osa01_01.*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa01-Osa01_02.*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa01-Osa01_03.*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa01-Osa01_04.*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa01-Osa01_05.*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa01-Osa01_06.*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa01-Osa01_07.*/src/main/java/
+*/*/src/test/
+*/*/target/
+*/*/.tmcproject.yml
+nbactions.xml
+pom.xml
