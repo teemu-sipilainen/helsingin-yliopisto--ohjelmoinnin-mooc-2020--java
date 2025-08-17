@@ -26,7 +26,8 @@ replay_pid*
 # TS added
 mooc-ohjelmoinnin-perusteet/*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa01-Osa01_0[1-9]*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa01-Osa01_1[0-5]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa01-Osa01_1[0-9]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa01-Osa01_2[0-3]*/src/main/java/
 */*/src/test/
 */*/target/
 */*/.tmcproject.yml
