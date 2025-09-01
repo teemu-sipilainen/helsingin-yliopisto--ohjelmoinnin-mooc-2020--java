@@ -28,7 +28,10 @@ mooc-ohjelmoinnin-perusteet/*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa01-Osa01*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa02-Osa02_0[1-9]*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa02-Osa02_1[1-9]*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa02-Osa02_2[0-8]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa02-Osa02_2[0-9]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa02-Osa02_3[0-4]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa03-Osa03_0[1-9]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa03-Osa03_10*/src/main/java/
 */*/src/test/
 */*/target/
 */*/.tmcproject.yml
