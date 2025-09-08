@@ -24,17 +24,18 @@ hs_err_pid*
 replay_pid*
 
 # TS added
+
 mooc-ohjelmoinnin-perusteet/*/src/main/java/
+
 !mooc-ohjelmoinnin-perusteet/osa01-Osa01*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa02-Osa02_0[1-9]*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa02-Osa02_1[1-9]*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa02-Osa02_2[0-9]*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa02-Osa02_3[0-4]*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa03-Osa03_0[1-9]*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa03-Osa03_1[0-9]*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa03-Osa03_2[0-9]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa02-Osa02*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa03-Osa03*/src/main/java/
+# !mooc-ohjelmoinnin-perusteet/osa04-Osa04_24*/**
+
 */*/src/test/
 */*/target/
 */*/.tmcproject.yml
 nbactions.xml
 pom.xml
+*.csv
+*.txt
