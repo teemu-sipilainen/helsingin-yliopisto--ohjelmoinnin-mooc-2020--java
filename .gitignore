@@ -27,14 +27,6 @@ replay_pid*
 
 mooc-ohjelmoinnin-perusteet/*/src/main/java/
 
-!mooc-ohjelmoinnin-perusteet/osa01-Osa01*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa02-Osa02*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa03-Osa03*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa04-Osa04_0[0-9]*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa04-Osa04_1[0-9]*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa04-Osa04_20*/src/main/java/
-# !mooc-ohjelmoinnin-perusteet/osa04-Osa04_24*/**
-
 */*/src/test/
 */*/target/
 */*/.tmcproject.yml
@@ -42,3 +34,12 @@ nbactions.xml
 pom.xml
 *.csv
 *.txt
+
+!mooc-ohjelmoinnin-perusteet/osa01-Osa01*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa02-Osa02*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa03-Osa03*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa04-Osa04_0[0-9]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa04-Osa04_1[0-9]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa04-Osa04_2[0-8]*/src/main/java/
+
+!mooc-ohjelmoinnin-perusteet/osa04-Osa04_2[3-8]*/*.txt
