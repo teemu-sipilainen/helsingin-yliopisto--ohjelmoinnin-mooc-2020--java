@@ -42,4 +42,5 @@ pom.xml
 !mooc-ohjelmoinnin-perusteet/osa05-Osa05_0[0-9]*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa05-Osa05_1[0-2]*/src/main/java/
 
-!mooc-ohjelmoinnin-perusteet/osa04-Osa04_2[3-8]*/*.txt
+!mooc-ohjelmoinnin-perusteet/osa04-Osa04*/*.txt
+# !mooc-ohjelmoinnin-perusteet/osa04-Osa04_2[3-8]*/*.txt
