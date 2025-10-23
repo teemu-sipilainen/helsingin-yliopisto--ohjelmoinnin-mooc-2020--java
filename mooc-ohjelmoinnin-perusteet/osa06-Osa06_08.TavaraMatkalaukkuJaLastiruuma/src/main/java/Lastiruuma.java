@@ -54,7 +54,7 @@ public class Lastiruuma {
     // Osa 7
     public void tulostaTavarat() {
         for (Matkalaukku laukku: this.laukut) {
-            System.out.println(laukku);
+            laukku.tulostaTavarat();
         }
     }
     
