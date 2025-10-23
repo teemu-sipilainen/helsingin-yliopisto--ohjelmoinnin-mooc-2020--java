@@ -40,10 +40,12 @@ pom.xml
 !mooc-ohjelmoinnin-perusteet/osa03*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa03*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa05*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa06-Osa06_0[0-8]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa06*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa07-Osa07_0[0-4]*/src/main/java/
 
 !mooc-ohjelmoinnin-perusteet/osa01*/*.txt
 !mooc-ohjelmoinnin-perusteet/osa02*/*.txt
 !mooc-ohjelmoinnin-perusteet/osa03*/*.txt
 !mooc-ohjelmoinnin-perusteet/osa04*/*.txt
 !mooc-ohjelmoinnin-perusteet/osa05*/*.txt
+!mooc-ohjelmoinnin-perusteet/osa06*/*.txt
