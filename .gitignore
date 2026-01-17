@@ -35,13 +35,15 @@ pom.xml
 *.csv
 *.txt
 
+mooc-ohjelmoinnin-perusteet/osa07-Osa07_07.Reseptihaku/test-*
+
 !mooc-ohjelmoinnin-perusteet/osa01*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa02*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa03*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa03*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa05*/src/main/java/
 !mooc-ohjelmoinnin-perusteet/osa06*/src/main/java/
-!mooc-ohjelmoinnin-perusteet/osa07-Osa07_0[0-4]*/src/main/java/
+!mooc-ohjelmoinnin-perusteet/osa07*/src/main/java/
 
 !mooc-ohjelmoinnin-perusteet/osa01*/*.txt
 !mooc-ohjelmoinnin-perusteet/osa02*/*.txt
@@ -49,3 +51,4 @@ pom.xml
 !mooc-ohjelmoinnin-perusteet/osa04*/*.txt
 !mooc-ohjelmoinnin-perusteet/osa05*/*.txt
 !mooc-ohjelmoinnin-perusteet/osa06*/*.txt
+!mooc-ohjelmoinnin-perusteet/osa07*/*.txt
